@@ -1,16 +1,19 @@
-## Hi there 👋
+# Merhaba, ben Sercan 👋
 
-<!--
-**atabey0165/atabey0165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Adana'dan yazılım dünyasına adım atan, disiplinli ve meraklı bir geliştiriciyim.  
+Her gün 3–4 saat kod yazarak kendimi geliştiriyorum. Şu anda C# ve Python üzerine çalışıyorum.
 
-Here are some ideas to get you started:
+## 🚀 Şu an neler yapıyorum?
+- C# ile temel console uygulamaları geliştiriyorum
+- Python ile küçük otomasyonlar deniyorum
+- GitHub portfolyomu oluşturuyorum
+- Küçük projelerle freelance dünyasına hazırlanıyorum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Hedeflerim
+- Junior geliştirici seviyesine ulaşmak
+- GitHub üzerinden projelerimi paylaşmak
+- Türkçe ve İngilizce içeriklerle uluslararası görünürlük kazanmak
+
+## 📫 Bana ulaşın
+- Tel:(0544 668 02 36)
+- E-posta: atabey6501@gmail.com
